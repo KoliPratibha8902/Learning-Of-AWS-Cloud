@@ -6,6 +6,6 @@
 ***Stock Market Analysis***
 - https://github.com/KoliPratibha8902/Stock-Market-Kafka-Data-Engineering-Project
 
-*AWS Security_Group + NACL
+***AWS Security_Group + NACL***
 
-*AWS VPC with Public-Private Subnet + NAT* 
+***AWS VPC with Public-Private Subnet + NAT*** 
